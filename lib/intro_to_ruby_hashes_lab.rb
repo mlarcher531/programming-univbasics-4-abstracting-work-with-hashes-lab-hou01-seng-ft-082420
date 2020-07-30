@@ -1,6 +1,6 @@
-def my_hash_creator( key, value)
+def my_hash_creator(name, value)
   my_hash = {
-    :key => value
+    :name => value
   }
 end
 

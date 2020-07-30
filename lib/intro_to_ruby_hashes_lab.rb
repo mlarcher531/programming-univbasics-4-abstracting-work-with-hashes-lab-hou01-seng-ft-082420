@@ -3,7 +3,6 @@ def my_hash_creator(key, value)
     key: value
   }
 end
-return my_hash[key]
 
 
 def read_from_hash(hash, key)
